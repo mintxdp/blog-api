@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "postId": 10,
+    "author": {
+      "userId": 105,
+      "name": "Kiara Jain"
+    },
+    "comment": "This was helpful\u2014learned something new today.",
+    "reactions": {
+      "likes": 2,
+      "dislikes": 1
+    }
+  },
+  {
+    "id": 2,
+    "postId": 9,
+    "author": {
+      "userId": 165,
+      "name": "Aarav Verma"
+    },
+    "comment": "I agree with a lot of this. Thanks for sharing!",
+    "reactions": {
+      "likes": 36,
+      "dislikes": 10
+    }
+  },
+  {
+    "id": 3,
+    "postId": 8,
+    "author": {
+      "userId": 165,
+      "name": "Aarav Verma"
+    },
+    "comment": "I have a different view, but appreciate your perspective.",
+    "reactions": {
+      "likes": 23,
+      "dislikes": 10
+    }
+  },
+  {
+    "id": 4,
+    "postId": 5,
+    "author": {
+      "userId": 141,
+      "name": "Sara Sharma"
+    },
+    "comment": "Well argued. I'd love more data to back it up though.",
+    "reactions": {
+      "likes": 47,
+      "dislikes": 2
+    }
+  },
+  {
+    "id": 5,
+    "postId": 6,
+    "author": {
+      "userId": 139,
+      "name": "Aarav Bhat"
+    },
+    "comment": "This was helpful\u2014learned something new today.",
+    "reactions": {
+      "likes": 23,
+      "dislikes": 10
+    }
+  },
+  {
+    "id": 6,
+    "postId": 3,
+    "author": {
+      "userId": 144,
+      "name": "Myra Verma"
+    },
+    "comment": "Well argued. I'd love more data to back it up though.",
+    "reactions": {
+      "likes": 39,
+      "dislikes": 3
+    }
+  },
+  {
+    "id": 7,
+    "postId": 2,
+    "author": {
+      "userId": 193,
+      "name": "Aarohi Joshi"
+    },
+    "comment": "Nice read. This clarified a lot for me.",
+    "reactions": {
+      "likes": 10,
+      "dislikes": 6
+    }
+  },
+  {
+    "id": 8,
+    "postId": 5,
+    "author": {
+      "userId": 112,
+      "name": "Anika Kulkarni"
+    },
+    "comment": "Interesting points\u2014especially the part about the main idea.",
+    "reactions": {
+      "likes": 32,
+      "dislikes": 0
+    }
+  },
+  {
+    "id": 9,
+    "postId": 9,
+    "author": {
+      "userId": 182,
+      "name": "Myra Jain"
+    },
+    "comment": "Great write-up! Would love more details on your reasoning.",
+    "reactions": {
+      "likes": 36,
+      "dislikes": 3
+    }
+  },
+  {
+    "id": 10,
+    "postId": 10,
+    "author": {
+      "userId": 100,
+      "name": "Arjun Joshi"
+    },
+    "comment": "Interesting points\u2014especially the part about the main idea.",
+    "reactions": {
+      "likes": 0,
+      "dislikes": 6
+    }
+  },
+  {
+    "id": 11,
+    "postId": 2,
+    "author": {
+      "userId": 101,
+      "name": "Kiara Khan"
+    },
+    "comment": "Well argued. I'd love more data to back it up though.",
+    "reactions": {
+      "likes": 46,
+      "dislikes": 4
+    }
+  },
+  {
+    "id": 12,
+    "postId": 10,
+    "author": {
+      "userId": 124,
+      "name": "Dhruv Menon"
+    },
+    "comment": "Great write-up! Would love more details on your reasoning.",
+    "reactions": {
+      "likes": 19,
+      "dislikes": 10
+    }
+  },
+  {
+    "id": 13,
+    "postId": 7,
+    "author": {
+      "userId": 129,
+      "name": "Kiara Bose"
+    },
+    "comment": "Great write-up! Would love more details on your reasoning.",
+    "reactions": {
+      "likes": 2,
+      "dislikes": 0
+    }
+  },
+  {
+    "id": 14,
+    "postId": 1,
+    "author": {
+      "userId": 104,
+      "name": "Aarav Khan"
+    },
+    "comment": "Thanks for posting. Any sources you recommend?",
+    "reactions": {
+      "likes": 50,
+      "dislikes": 5
+    }
+  },
+  {
+    "id": 15,
+    "postId": 5,
+    "author": {
+      "userId": 106,
+      "name": "Anika Sharma"
+    },
+    "comment": "Nice read. This clarified a lot for me.",
+    "reactions": {
+      "likes": 32,
+      "dislikes": 7
+    }
+  },
+  {
+    "id": 16,
+    "postId": 5,
+    "author": {
+      "userId": 148,
+      "name": "Aadhya Verma"
+    },
+    "comment": "Love the storytelling. This angle is underrated.",
+    "reactions": {
+      "likes": 28,
+      "dislikes": 10
+    }
+  },
+  {
+    "id": 17,
+    "postId": 5,
+    "author": {
+      "userId": 172,
+      "name": "Anaya Khan"
+    },
+    "comment": "I have a different view, but appreciate your perspective.",
+    "reactions": {
+      "likes": 34,
+      "dislikes": 8
+    }
+  },
+  {
+    "id": 18,
+    "postId": 3,
+    "author": {
+      "userId": 122,
+      "name": "Sara Khan"
+    },
+    "comment": "I agree with a lot of this. Thanks for sharing!",
+    "reactions": {
+      "likes": 1,
+      "dislikes": 0
+    }
+  },
+  {
+    "id": 19,
+    "postId": 9,
+    "author": {
+      "userId": 103,
+      "name": "Myra Khan"
+    },
+    "comment": "I have a different view, but appreciate your perspective.",
+    "reactions": {
+      "likes": 6,
+      "dislikes": 0
+    }
+  },
+  {
+    "id": 20,
+    "postId": 4,
+    "author": {
+      "userId": 181,
+      "name": "Kiara Reddy"
+    },
+    "comment": "Great write-up! Would love more details on your reasoning.",
+    "reactions": {
+      "likes": 46,
+      "dislikes": 9
+    }
+  },
+  {
+    "id": 21,
+    "postId": 1,
+    "author": {
+      "userId": 171,
+      "name": "Aarohi Kapoor"
+    },
+    "comment": "Thanks for posting. Any sources you recommend?",
+    "reactions": {
+      "likes": 1,
+      "dislikes": 4
+    }
+  },
+  {
+    "id": 22,
+    "postId": 8,
+    "author": {
+      "userId": 112,
+      "name": "Anika Kulkarni"
+    },
+    "comment": "I have a different view, but appreciate your perspective.",
+    "reactions": {
+      "likes": 41,
+      "dislikes": 9
+    }
+  },
+  {
+    "id": 23,
+    "postId": 7,
+    "author": {
+      "userId": 124,
+      "name": "Dhruv Menon"
+    },
+    "comment": "Nice read. This clarified a lot for me.",
+    "reactions": {
+      "likes": 28,
+      "dislikes": 4
+    }
+  },
+  {
+    "id": 24,
+    "postId": 8,
+    "author": {
+      "userId": 118,
+      "name": "Reyansh Chakraborty"
+    },
+    "comment": "I have a different view, but appreciate your perspective.",
+    "reactions": {
+      "likes": 44,
+      "dislikes": 9
+    }
+  },
+  {
+    "id": 25,
+    "postId": 9,
+    "author": {
+      "userId": 116,
+      "name": "Saanvi Menon"
+    },
+    "comment": "Not sure I fully agree, but it's a thoughtful post.",
+    "reactions": {
+      "likes": 6,
+      "dislikes": 7
+    }
+  },
+  {
+    "id": 26,
+    "postId": 2,
+    "author": {
+      "userId": 161,
+      "name": "Sara Khan"
+    },
+    "comment": "Interesting points\u2014especially the part about the main idea.",
+    "reactions": {
+      "likes": 26,
+      "dislikes": 1
+    }
+  },
+  {
+    "id": 27,
+    "postId": 3,
+    "author": {
+      "userId": 138,
+      "name": "Ishaan Kapoor"
+    },
+    "comment": "Not sure I fully agree, but it's a thoughtful post.",
+    "reactions": {
+      "likes": 21,
+      "dislikes": 0
+    }
+  },
+  {
+    "id": 28,
+    "postId": 5,
+    "author": {
+      "userId": 168,
+      "name": "Krish Bose"
+    },
+    "comment": "This was helpful\u2014learned something new today.",
+    "reactions": {
+      "likes": 1,
+      "dislikes": 5
+    }
+  },
+  {
+    "id": 29,
+    "postId": 5,
+    "author": {
+      "userId": 151,
+      "name": "Ira Khan"
+    },
+    "comment": "This was helpful\u2014learned something new today.",
+    "reactions": {
+      "likes": 38,
+      "dislikes": 7
+    }
+  },
+  {
+    "id": 30,
+    "postId": 7,
+    "author": {
+      "userId": 149,
+      "name": "Aditya Reddy"
+    },
+    "comment": "This was helpful\u2014learned something new today.",
+    "reactions": {
+      "likes": 44,
+      "dislikes": 6
+    }
+  },
+  {
+    "id": 31,
+    "postId": 8,
+    "author": {
+      "userId": 119,
+      "name": "Kabir Singh"
+    },
+    "comment": "Love the storytelling. This angle is underrated.",
+    "reactions": {
+      "likes": 21,
+      "dislikes": 9
+    }
+  },
+  {
+    "id": 32,
+    "postId": 5,
+    "author": {
+      "userId": 131,
+      "name": "Diya Jain"
+    },
+    "comment": "Nice read. This clarified a lot for me.",
+    "reactions": {
+      "likes": 50,
+      "dislikes": 9
+    }
+  },
+  {
+    "id": 33,
+    "postId": 6,
+    "author": {
+      "userId": 186,
+      "name": "Diya Mehta"
+    },
+    "comment": "I have a different view, but appreciate your perspective.",
+    "reactions": {
+      "likes": 31,
+      "dislikes": 2
+    }
+  },
+  {
+    "id": 34,
+    "postId": 5,
+    "author": {
+      "userId": 117,
+      "name": "Rohan Singh"
+    },
+    "comment": "Not sure I fully agree, but it's a thoughtful post.",
+    "reactions": {
+      "likes": 39,
+      "dislikes": 1
+    }
+  },
+  {
+    "id": 35,
+    "postId": 10,
+    "author": {
+      "userId": 134,
+      "name": "Anika Bose"
+    },
+    "comment": "Interesting points\u2014especially the part about the main idea.",
+    "reactions": {
+      "likes": 16,
+      "dislikes": 3
+    }
+  },
+  {
+    "id": 36,
+    "postId": 6,
+    "author": {
+      "userId": 147,
+      "name": "Saanvi Gupta"
+    },
+    "comment": "Interesting points\u2014especially the part about the main idea.",
+    "reactions": {
+      "likes": 48,
+      "dislikes": 5
+    }
+  },
+  {
+    "id": 37,
+    "postId": 6,
+    "author": {
+      "userId": 200,
+      "name": "Vivaan Khan"
+    },
+    "comment": "Love the storytelling. This angle is underrated.",
+    "reactions": {
+      "likes": 5,
+      "dislikes": 6
+    }
+  },
+  {
+    "id": 38,
+    "postId": 1,
+    "author": {
+      "userId": 170,
+      "name": "Anaya Kulkarni"
+    },
+    "comment": "I have a different view, but appreciate your perspective.",
+    "reactions": {
+      "likes": 13,
+      "dislikes": 6
+    }
+  },
+  {
+    "id": 39,
+    "postId": 6,
+    "author": {
+      "userId": 136,
+      "name": "Kiara Mehta"
+    },
+    "comment": "Great write-up! Would love more details on your reasoning.",
+    "reactions": {
+      "likes": 12,
+      "dislikes": 3
+    }
+  },
+  {
+    "id": 40,
+    "postId": 8,
+    "author": {
+      "userId": 140,
+      "name": "Krish Sharma"
+    },
+    "comment": "This was helpful\u2014learned something new today.",
+    "reactions": {
+      "likes": 23,
+      "dislikes": 8
+    }
+  },
+  {
+    "id": 41,
+    "postId": 4,
+    "author": {
+      "userId": 154,
+      "name": "Ishaan Kapoor"
+    },
+    "comment": "Great write-up! Would love more details on your reasoning.",
+    "reactions": {
+      "likes": 7,
+      "dislikes": 0
+    }
+  },
+  {
+    "id": 42,
+    "postId": 10,
+    "author": {
+      "userId": 173,
+      "name": "Diya Agarwal"
+    },
+    "comment": "Thanks for posting. Any sources you recommend?",
+    "reactions": {
+      "likes": 14,
+      "dislikes": 9
+    }
+  },
+  {
+    "id": 43,
+    "postId": 6,
+    "author": {
+      "userId": 127,
+      "name": "Vivaan Bhat"
+    },
+    "comment": "Not sure I fully agree, but it's a thoughtful post.",
+    "reactions": {
+      "likes": 49,
+      "dislikes": 10
+    }
+  },
+  {
+    "id": 44,
+    "postId": 7,
+    "author": {
+      "userId": 123,
+      "name": "Vivaan Das"
+    },
+    "comment": "Thanks for posting. Any sources you recommend?",
+    "reactions": {
+      "likes": 38,
+      "dislikes": 4
+    }
+  },
+  {
+    "id": 45,
+    "postId": 9,
+    "author": {
+      "userId": 181,
+      "name": "Kiara Reddy"
+    },
+    "comment": "Interesting points\u2014especially the part about the main idea.",
+    "reactions": {
+      "likes": 7,
+      "dislikes": 7
+    }
+  },
+  {
+    "id": 46,
+    "postId": 6,
+    "author": {
+      "userId": 102,
+      "name": "Arjun Bhat"
+    },
+    "comment": "Love the storytelling. This angle is underrated.",
+    "reactions": {
+      "likes": 42,
+      "dislikes": 4
+    }
+  },
+  {
+    "id": 47,
+    "postId": 9,
+    "author": {
+      "userId": 154,
+      "name": "Ishaan Kapoor"
+    },
+    "comment": "Love the storytelling. This angle is underrated.",
+    "reactions": {
+      "likes": 22,
+      "dislikes": 2
+    }
+  },
+  {
+    "id": 48,
+    "postId": 8,
+    "author": {
+      "userId": 134,
+      "name": "Anika Bose"
+    },
+    "comment": "Nice read. This clarified a lot for me.",
+    "reactions": {
+      "likes": 8,
+      "dislikes": 1
+    }
+  },
+  {
+    "id": 49,
+    "postId": 2,
+    "author": {
+      "userId": 139,
+      "name": "Aarav Bhat"
+    },
+    "comment": "This was helpful\u2014learned something new today.",
+    "reactions": {
+      "likes": 32,
+      "dislikes": 10
+    }
+  },
+  {
+    "id": 50,
+    "postId": 10,
+    "author": {
+      "userId": 118,
+      "name": "Reyansh Chakraborty"
+    },
+    "comment": "Not sure I fully agree, but it's a thoughtful post.",
+    "reactions": {
+      "likes": 50,
+      "dislikes": 4
+    }
+  }
+]

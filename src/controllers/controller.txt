@@ -1,0 +1,2 @@
+This folder contains functions which actually handles http request
+for any route.
