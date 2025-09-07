@@ -1,5 +1,4 @@
 # blog-api
-<br>
 REST API for a blog platform.
 ### Resources
 1. 50 User data
