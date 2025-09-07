@@ -33,5 +33,5 @@ Built with Node.js, Express, and MongoDB (MERN-style backend).
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/blog-api.git
+   git clone https://github.com/mintxdp/blog-api.git
    cd blog-api
